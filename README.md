@@ -1,4 +1,4 @@
-# ⚽ Análise de Dados - Ligas Europeias
+# Análise de Dados - Ligas Europeias
 
 ## 📌 Sobre o Projeto
 
@@ -31,16 +31,5 @@ O objetivo é explorar informações estatísticas, identificar padrões e trans
 - Seaborn
 - Jupyter Notebook
 - Git e GitHub
-
----
-
-## 📊 Análises Realizadas
-
-- Tratamento e limpeza de dados
-- Análise exploratória (EDA)
-- Estatísticas de jogadores
-- Comparação entre ligas e clubes
-- Distribuição de características dos atletas
-- Visualização de dados através de gráficos
 
 ---
