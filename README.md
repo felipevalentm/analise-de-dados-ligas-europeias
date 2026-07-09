@@ -38,5 +38,3 @@ O objetivo é explorar informações estatísticas, identificar padrões e trans
 - Visualização de dados através de gráficos
 
 ---
-
-## 📂 Estrutura do Projeto
